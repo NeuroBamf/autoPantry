@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+*.db
+venv/
+
+# Node/Angular
+node_modules/
+dist/
+.angular/
+
+# VSCode/macOS system files
+.DS_Store
+.env
